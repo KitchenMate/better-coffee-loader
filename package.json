@@ -1,5 +1,5 @@
 {
-  "name": "better-coffee-loader",
+  "name": "@kitchenmate/better-coffee-loader",
   "version": "0.1.0",
   "description": "Better CoffeeScript loader for webpack.",
   "repository": {
